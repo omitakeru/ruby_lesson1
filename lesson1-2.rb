@@ -6,14 +6,14 @@
 # ****
 # *****
 
-i =
-while    do
-	j =
-	while      do
+i =1
+while  i<=5  do
+	j =1
+	while  j<=i    do
 		print "*"
-		j = 
+		j +=1 
 	end
-	puts
-	i = 
+	puts 
+	i +=1 
 end
 
